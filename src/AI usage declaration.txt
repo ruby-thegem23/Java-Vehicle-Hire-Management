@@ -1,0 +1,12 @@
+AI Usage Declaration
+
+AI tools (ChatGPT, Gemini) were used to:
+- Review my JavaDoc formatting and consistency
+- Review code for potential logical or structural errors
+- Improve inline comment clarity
+- Explain object-oriented design concepts
+- Summarise and explain reference materials (e.g., W3Schools and other documentation)
+
+
+
+Author: Yu Hsuan, Han
