@@ -81,6 +81,6 @@ Tests cover normal cases, boundary conditions, and exceptional cases including:
 ## 🏫 Academic Context
 
 Developed as assessed coursework for **CSC8014 — Software Development with Java**
-at Newcastle University (February 2026).
+at Newcastle University (November 2025).
 
 > *AI tools were used only for brainstorming and debugging, in accordance with the module policy.*
